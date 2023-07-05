@@ -1,5 +1,5 @@
 # POSSIBLE IMPROVEMENTS
-# ?ghost creature gives reward for polite
+# ?ghost creature gives reward for politeness
 # ?use while loop for enemy health
 # Going back and using a Class would be a code update
 
